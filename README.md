@@ -1,2 +1,2 @@
 # supperstore-analysis
-using Tableau
+Analyzing suppeerstore data and getting some KPI using Tableau
